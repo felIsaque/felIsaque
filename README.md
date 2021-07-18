@@ -9,7 +9,7 @@
 
 ### Habilidades ⚡ :
 
-- #### Linguagens e Frameworks <img src="https://www.pinclipart.com/picdir/big/15-153076_coding-icon-clipart-computer-icons-computer-programming-coding.png" alt="drawing" width="25"/>
+- #### Linguagens e Frameworks <img src="https://cdn1.iconfinder.com/data/icons/internet-security-3/64/x-03-512.png" alt="drawing" width="25"/>
  <center> <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png" alt="drawing" width="25"/>
  <img src="https://emojis.slackmojis.com/emojis/images/1483054030/1541/django.png?1483054030" alt="drawing" width="25"/>
  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="drawing" width="100"/>
@@ -28,7 +28,7 @@
 </center>
 <hr>
 
-### Estatísticas  <img src="https://img-premium.flaticon.com/png/512/4064/premium/4064936.png?token=exp=1626642356~hmac=68e8f07bf7140761773d42115db987c6" alt="drawing" width="20"/> :
+### Estatísticas  <img src="https://cdn3.iconfinder.com/data/icons/e-commerce-and-online-shopping/64/__statistics-256.png" alt="drawing" width="20"/> :
 <img src="https://github-readme-stats.vercel.app/api?username=isaquefer&theme=cobalt&show_icons=true)](https://github.com/Erickson-lopes-dev/github-readme-stats" alt="drawing" width="500"/>
 
 <hr>
@@ -41,6 +41,7 @@
 
 ### Contato ✉️ :
 <img src="https://external-content.duckduckgo.com/ip3/protonmail.com.ico" alt="drawing" width="15"/> isaquefer@protonmail.com
+
 <img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" alt="drawing" width="15"/> www.linkedin.com/in/isaquefer
 
 Inspiração para este READ: https://github.com/Erickson-lopes-dev/Erickson-lopes-dev
