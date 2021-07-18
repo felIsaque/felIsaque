@@ -33,4 +33,6 @@
 
 <img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" alt="drawing" width="15"/> www.linkedin.com/in/isaquefer
 
+<hr>
+
 Inspiração para este READ: https://github.com/Erickson-lopes-dev/Erickson-lopes-dev
